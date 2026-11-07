@@ -18,7 +18,6 @@ I'm continuously working on improving my problem-solving skills and growing as a
 
 💬 **Open to:** Learning opportunities, collaborations, and interesting tech projects.
 
-⚡ **Fun Fact:** I love turning random ideas into tech projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palak-singh1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/palaksinghd5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palaksinghd5@gmail.com) 
